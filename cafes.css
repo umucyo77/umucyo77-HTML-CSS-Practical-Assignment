@@ -1,0 +1,12 @@
+@import url("activities.css");
+
+.styled-list {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.styled-list li {
+    padding: 8px 0;
+    font-size: 1rem;
+    color: #334155;
+}
